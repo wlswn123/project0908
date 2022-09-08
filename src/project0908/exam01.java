@@ -1,10 +1,9 @@
 package project0908;
 
-public class hello {
+public class exam01 {
 
 	public static void main(String[] args) {
 		System.out.println("helloworld");
-		System.out.println("헬로월드");
 
 	}
 
